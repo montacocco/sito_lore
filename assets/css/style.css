@@ -1688,6 +1688,8 @@ label {
   }
 }
 
+
+
 .cs_fs_32 {
   font-size: 32px;
   line-height: 1.25em;
@@ -5216,23 +5218,23 @@ hr {
   }
 }
 .cs_card_1_group .cs_card.cs_style_1.active .cs_card_title {
-  font-size: 80px;
+  font-size: 65px;
   line-height: 1.1em;
   margin-bottom: 16px;
 }
 @media (max-width: 1400px) {
   .cs_card_1_group .cs_card.cs_style_1.active .cs_card_title {
-    font-size: 70px;
+    font-size: 60px;
   }
 }
 @media (max-width: 1199px) {
   .cs_card_1_group .cs_card.cs_style_1.active .cs_card_title {
-    font-size: 60px;
+    font-size: 50px;
   }
 }
 @media (max-width: 991px) {
   .cs_card_1_group .cs_card.cs_style_1.active .cs_card_title {
-    font-size: 26px;
+    font-size: 24px;
   }
 }
 .cs_card_1_group .cs_card.cs_style_1.active .cs_card_subtitle {
